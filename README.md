@@ -1,2 +1,2 @@
 # python-fighter-game
- 2D Street Fighter like game in python.
+Working on 2D Street Fighter like game in python.

@@ -1,5 +1,5 @@
 import pygame
-from fighters import Fighter
+from fighterClass import Fighter
 
 pygame.init()
 
